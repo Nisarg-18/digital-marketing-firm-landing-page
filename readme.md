@@ -10,7 +10,7 @@ A landing page for a Digital Marketing firm made using pure HTML and CSS
 ## Time Taken for Completion
 - 2 hours
 
-<!-- ### Checkout the Project here : [laworganisation](https://laworganisation.netlify.app/) -->
+### Checkout the Project here : [digitalmarketingfirm](https://digitalmarketingfirm.netlify.app/)
 
 ## Output
 ![output](output.png)
